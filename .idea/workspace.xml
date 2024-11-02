@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2b252d3-f731-48dd-a5b2-cb09f30e08bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssignmen04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompassDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompassDirectionRunner.java" afterDir="false" />
+    <list default="true" id="c2b252d3-f731-48dd-a5b2-cb09f30e08bc" name="Changes" comment="E5.11 no. problem is solved">
+      <change afterPath="$PROJECT_DIR$/src/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GradeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompassDirection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompassDirectionRunner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -40,9 +41,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GradeRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "problem-E5.13",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/CODE/JAVA/JavaAssignment04",
     "onboarding.tips.debug.path": "D:/CODE/JAVA/JavaAssignmen04/src/Main.java"
@@ -64,7 +66,20 @@
       <option name="presentableId" value="Default" />
       <updated>1730542241226</updated>
     </task>
+    <task id="LOCAL-00001" summary="E5.11 no. problem is solved">
+      <option name="closed" value="true" />
+      <created>1730543923855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543923855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="E5.11 no. problem is solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.11 no. problem is solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
